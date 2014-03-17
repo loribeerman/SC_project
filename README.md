@@ -1,4 +1,4 @@
 SC_project
 ==========
 
-project for software carpentry
+project for software carpentry - change
